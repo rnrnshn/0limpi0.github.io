@@ -1,7 +1,7 @@
 ---
 title: "TIL: How does .chomp method works?"
 layout: post
-date: 2017-02-17 20:44
+date: 2019-02-17 20:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -12,7 +12,6 @@ category: blog
 author: olimpio
 description: Actually, what chomp does, is removing the Enter character at the end of your string
 ---
-
 
 As I'm learning Ruby on [Codecademy](https://www.codecademy.com) I've come across many methods and I'm learning many things. But as I want to master this language, I'm taking some time to dive into some new things I learn every day. Today I want to go in depth on:
 
