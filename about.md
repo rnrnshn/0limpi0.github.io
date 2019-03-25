@@ -22,4 +22,5 @@ Currently, I'm working at <a href="https://tecnicol.co.mz">Tecnicol Moçambique<
 	<li>Git</li>
 	<li>MySQL - MongoDB</li>
 	<li> Jekyll </li>
+	<li> Wordpress CMS </li>
 </ul>
