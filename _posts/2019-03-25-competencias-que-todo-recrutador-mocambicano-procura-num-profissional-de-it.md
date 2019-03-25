@@ -2,7 +2,7 @@
 title: Competências que todo recrutador Moçambicano procura num profissional de IT
 layout: post
 date: 2017-02-12 17:44
-image: /assets/images/markdown.jpg
+image: /assets/images/motherboard.jpg
 headerImage: false
 tag:
 - emprego
@@ -10,7 +10,7 @@ tag:
 star: true
 category: blog
 author: olimpio
-description: A área das Tecnologias de informação é uma das áreas que mais tem mostrado avanços em Moçambique nos últimos 5 anos. Apesar de ser uma área em expansão, o mercado moçambicano atravessa alguns problemas na hora de achar um profissional de TI
+description: A área das Tecnologias de informação é uma das áreas que mais tem mostrado avanços em Moçambique nos últimos 5 anos.
 ---
 
 ![Motherboard](/assets/images/motherboard.jpg)

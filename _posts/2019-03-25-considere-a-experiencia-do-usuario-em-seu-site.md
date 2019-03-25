@@ -2,7 +2,7 @@
 title: Considere a experiência do usuário em seu site
 layout: post
 date: 2016-05-19 15:15
-image: "/assets/images/markdown.jpg"
+image: "/assets/images/mobilephone.jpg"
 tag:
 - design
 - experience
@@ -10,8 +10,7 @@ tag:
 star: true
 category: blog
 author: olimpio
-description: Actually, what chomp does, is removing the Enter character at the end
-  of your string
+description: Qual é a finalidade do seu site? Para muitas empresas, um site é uma plataforma que legitima o negócio, constrói confiança e autoridade
 ---
 ![Mobilephone](/assets/images/mobilephone.jpg)
 Tem havido uma mudança interessante no design de sites e marketing on-line ao longo dos últimos anos. Especificamente, o design do site está se movendo de conteúdo pesado de palavras-chave para simples experiências com foco no usuário visual.
