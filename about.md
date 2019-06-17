@@ -9,7 +9,7 @@ layout: page
 
 Currently, I'm working at <a href="https://tecnicol.co.mz">Tecnicol Moçambique</a>. I'm an aspiring Ruby developer.</p>
 
-<p> I've helped to organise Tech related talks and conferences like <a href="http://devfestmaputo.firebaseapp.com/">GDG MAPUTO 2018</a>. Currently I'm helping to organise <a href="conf.kutiva.co.mz">KutivaConf</a>.</p>
+<p> I've helped to organise Tech related talks and conferences like <a href="http://devfestmaputo.firebaseapp.com/">GDG MAPUTO 2018</a>.</p>
 
 <h2>Skills</h2>
 
