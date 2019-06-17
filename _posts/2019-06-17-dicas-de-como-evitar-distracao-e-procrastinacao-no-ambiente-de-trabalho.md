@@ -2,7 +2,7 @@
 title: Dicas de como evitar distração e procrastinação
 layout: post
 date: '2019-06-17 17:56:00'
-image: "/assets/images/distraction.jpg"
+image: "/assets/images/distraction.png"
 tag:
 - procrastination
 - distraction
@@ -13,7 +13,7 @@ author: olimpio
 description: Você está ali em frente ao computador, trabalhando e do nada tem 30 abas
   abertas no seu navegador e a fazer scroll na sua página do Facebook?
 ---
-![Distraction](/assets/images/distraction.jpg)
+![Distraction](/assets/images/distraction.png)
 Você está ali em frente ao computador, trabalhando e do nada tem 30 abas abertas no seu navegador e a fazer scroll na sua página do Facebook. Ou vendo um tutorial no YouTube e do nada está num canal de stand-up comedy? Ou mesmo até escrevendo o seu relatório e do nada entra uma mensagem do WhatsApp e tu estás lá já a responder a todas mensagens para depois lembrar que nem terminou de escrever o seu relatório? Bom, se há algo que me conforta, é, *se procasticar é doença então não sou o único doente na face da terra*. 
 
 Neste texto trago 10 dicas que te farão procrastinar menos ou até mesmo parar. Estas dicas foram extraídas na discussão sobre produtividade iniciada pelo Ben Halpern [How do you limit or avoid procrastination?](https://dev.to/ben/how-do-you-limit-or-avoid-procrastination-18ea), extraí as dicas que achei serem mais interessantes e fáceis de aplicar. Limitei-me a citar os autores das dicas por motivos de organização do artigo. 
