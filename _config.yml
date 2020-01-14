@@ -1,5 +1,5 @@
 # main text of home
-name: Olimpio
+name: Olímpio
 bio: Front-end web developer 🎨 | CSS 🌈 and animé 🎌 | Rubyist 💎| Inquisitive ++ ⁉️ 
 
 # twitter summary info
@@ -34,7 +34,7 @@ analytics-google: 'UA-142521083-1'
 #   categories: [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: oly.mangue
+# facebook: oly.mangue
 twitter: olimpioadolfo
 # google: mygoogle
 # instagram: myinstagram
@@ -55,11 +55,11 @@ email: olymangue@gmail.com
 
 authors:
   olimpio:
-  name: Olimpio
-  bio: Front-end web developer 🎨 | CSS 🌈 and animé 🎌 | Rubyist 💎| Inquisitive ++ ⁉️
-  external-image: false
-  picture: assets/images/profile.jpg
-  twitter: olimpioadolfo
+    name: Olimpio
+    bio: Front-end web developer 🎨 | CSS 🌈 and animé 🎌 | Rubyist 💎| Inquisitive ++ ⁉️
+    external-image: false
+    picture: assets/images/profile.jpg
+    twitter: olimpioadolfo
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
