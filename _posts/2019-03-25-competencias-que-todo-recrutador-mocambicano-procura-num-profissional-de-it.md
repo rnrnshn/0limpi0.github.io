@@ -5,8 +5,7 @@ date: 2017-02-12 17:44
 image: /assets/images/motherboard.jpg
 headerImage: false
 tag:
-- emprego
-- moz
+- carreira
 star: true
 category: blog
 author: olimpio

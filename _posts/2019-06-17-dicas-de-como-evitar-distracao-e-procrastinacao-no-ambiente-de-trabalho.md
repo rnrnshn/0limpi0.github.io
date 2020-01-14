@@ -4,9 +4,7 @@ layout: post
 date: '2019-06-17 17:56:00'
 image: "/assets/images/distraction.png"
 tag:
-- procrastination
-- distraction
-- workplace
+- produtividade
 star: true
 category: blog
 author: olimpio

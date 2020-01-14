@@ -4,9 +4,7 @@ layout: post
 date: 2016-05-19 15:15
 image: "/assets/images/mobilephone.jpg"
 tag:
-- design
-- experience
-- webdesign
+- ux design
 star: true
 category: blog
 author: olimpio

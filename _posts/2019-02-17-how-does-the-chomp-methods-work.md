@@ -5,8 +5,8 @@ date: 2019-02-17 20:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
+- programação
 - ruby
-- oop
 star: true
 category: blog
 author: olimpio
