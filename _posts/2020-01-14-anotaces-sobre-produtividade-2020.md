@@ -12,7 +12,7 @@ description: Passam já alguns dias do ano e estou meio que procrastinando algum
 ---
 ![In/spectre](/assets/images/inspectre.jpg)
 
-Novo ano. Mova década.
+Novo ano. Nova década.
 
 Que tal iniciar o ano já sendo produtivo? 
 
