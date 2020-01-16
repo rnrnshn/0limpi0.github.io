@@ -1,7 +1,7 @@
 ---
 title: Anotações sobre produtividade - 2020
 layout: post
-image: /assets/images/inspectre.png
+image: /assets/images/inspectre.jpg
 tag:
 - anotações
 - produtividade
