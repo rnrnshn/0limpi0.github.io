@@ -1,6 +1,6 @@
 # main text of home
 name: Olímpio
-bio: Front-end web developer 🎨 | CSS 🌈 and animé 🎌 | Rubyist 💎| Inquisitive ++ ⁉️ 
+bio: Front-end web developer 🎨 | I love CSS 🌈 and animé 🎌 | Inquisitive ++ ⁉️ 
 
 # twitter summary info
 description: A blog about my relationship with tech, css, ruby and tech communities!
@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://olimpio.me
+url: https://0limpi0.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,7 +35,7 @@ analytics-google: 'UA-142521083-1'
 
 # if you don't have any of social below, comment the line
 # facebook: oly.mangue
-twitter: olimpioadolfo
+twitter: rnrnshn
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
